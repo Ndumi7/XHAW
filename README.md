@@ -84,7 +84,11 @@ Works on both **phones and tablets**.
 
 ## ⚙️ Technologies Used
 
-- HTML, CSS, JavaScript  
+- HTML, CSS, JavaScript
+- React
+- Expo
+- Node
+- Typescript
 - Embedded Google Maps  
 - Responsive layout for mobile-friendly experience  
 
