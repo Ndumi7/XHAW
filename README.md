@@ -1,6 +1,6 @@
 Empowering The Nation
 ReadME file
-Github link: https://github.com/Ndumi7/ETN.git
+Github link: https://github.com/Ndumi7/XHAW.git
 YouTube link: https://youtu.be/xHYd-JmQGeY
 # Empowering the Nation
 
